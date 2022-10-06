@@ -1,3 +1,4 @@
+![Instagram Clone](https://github.com/shaansuraj/Instagram-Clone/blob/main/instaclone.jpg)
 
 ## 🚀 Features
 - Login/Signup User Account
